@@ -5,7 +5,7 @@
   <a href="https://x.com/tmrcv">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/tomislav-mari%C4%8Devi%C4%87-a90486103/">
+  <a href="https://www.linkedin.com/in/tomislav-maricevic/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://stackoverflow.com/users/909800/tmarice">
