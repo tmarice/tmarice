@@ -10,6 +10,10 @@
   </a>
 </p>
 
+## Blog
+
+I occasionally scribble <a href="https://tmarice.mataroa.blog">on my blog</a>.
+
 ## 🛠 Things I enjoy working with 🛠
 <p align="center">
   <a href="https://skillicons.dev">
