@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/tomislav-mari%C4%8Devi%C4%87-a90486103/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://stackoverflow.com/users/909800/tmarice">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
 </p>
 
 ## 🛠 Things I enjoy working with 🛠
