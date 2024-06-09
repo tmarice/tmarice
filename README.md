@@ -1,11 +1,3 @@
-## Things I enjoy working with 🛠
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,py,django,git,postgres,docker,aws" />
-  </a>
-</p>
-
-## You can find me on
 <p align="center">
   <a href="https://x.com/tmrcv">
     <img src="https://skillicons.dev/icons?i=twitter" />
@@ -14,6 +6,14 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+## 🛠 Things I enjoy working with 🛠
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,py,django,git,postgres,docker,aws" />
+  </a>
+</p>
+
 
 
 <!--
