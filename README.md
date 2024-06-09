@@ -1,3 +1,6 @@
+> You gotta risk it to get the biscuit
+
+## 📨
 <p align="center">
   <a href="https://x.com/tmrcv">
     <img src="https://skillicons.dev/icons?i=twitter" />
@@ -10,7 +13,7 @@
   </a>
 </p>
 
-## Blog
+## 📖 Blog
 
 I occasionally scribble <a href="https://tmarice.mataroa.blog">on my blog</a>.
 
