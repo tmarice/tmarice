@@ -18,6 +18,7 @@
 I occasionally scribble <a href="https://tmarice.mataroa.blog">on my blog</a>.
 
 Latest posts:
+* [Better living through optimized Django](https://tmarice.mataroa.blog/blog/better-living-through-optimized-django/)
 * [Why I always assign intermediate values to local variables instead of passing them directly to function calls](https://tmarice.mataroa.blog/blog/why-i-always-assign-intermediate-values-to-local-variables-instead-of-passing-them-directly-to-function-calls/)
 * [On Python's @property decorator](https://tmarice.mataroa.blog/blog/on-pythons-property-decorator/)
 
