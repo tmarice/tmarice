@@ -18,6 +18,7 @@
 I occasionally scribble <a href="https://tmarice.dev">on my blog</a>.
 
 Latest posts:
+* [Handling CSRF Login Errors Gracefully in Django](https://tmarice.dev/blog/handling-csrf-login-errors-gracefully-in-django/)
 * [Better living through optimized Django](https://tmarice.dev/blog/better-living-through-optimized-django/)
 * [Why I always assign intermediate values to local variables instead of passing them directly to function calls](https://tmarice.dev/blog/why-i-always-assign-intermediate-values-to-local-variables-instead-of-passing-them-directly-to-function-calls/)
 * [On Python's @property decorator](https://tmarice.dev/blog/on-pythons-property-decorator/)
