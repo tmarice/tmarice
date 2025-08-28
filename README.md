@@ -18,6 +18,7 @@
 I occasionally scribble <a href="https://tmarice.dev">on my blog</a>.
 
 Latest posts:
+* [Configuring PostgreSQL server parameters on GitHub Actions](https://tmarice.dev/blog/configuring-postgres-on-github-actions/)
 * [On Usable Documentation](https://tmarice.dev/blog/on-usable-documentation/)
 * [Handling CSRF Login Errors Gracefully in Django](https://tmarice.dev/blog/handling-csrf-login-errors-gracefully-in-django/)
 * [Better living through optimized Django](https://tmarice.dev/blog/better-living-through-optimized-django/)
