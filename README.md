@@ -13,6 +13,12 @@
   </a>
 </p>
 
+## ⛏️ Work
+
+I'm an experienced product engineer with a strong background in Python, Django, and relational databases, and a proven track record of delivering complex projects on time and within budget, with a focus on quality and performance. Passionate about mentoring and improving engineering processes.
+
+If you require consulting or freelance services, feel free to contact me through one of the channels above ⬆️.
+
 ## 📖 Blog
 
 I occasionally scribble <a href="https://tmarice.dev">on my blog</a>.
