@@ -24,6 +24,7 @@ If you require consulting or freelance services, feel free to contact me through
 I occasionally scribble <a href="https://tmarice.dev">on my blog</a>.
 
 Latest posts:
+* [Vim mandates >> AI mandates](https://tmarice.dev/blog/vim-mandates-gt-ai-mandates/)
 * [Configuring PostgreSQL server parameters on GitHub Actions](https://tmarice.dev/blog/configuring-postgres-on-github-actions/)
 * [On Usable Documentation](https://tmarice.dev/blog/on-usable-documentation/)
 * [Handling CSRF Login Errors Gracefully in Django](https://tmarice.dev/blog/handling-csrf-login-errors-gracefully-in-django/)
